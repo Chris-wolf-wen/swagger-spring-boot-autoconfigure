@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github.chris</groupId>
-    <artifactId>git</artifactId>
+    <artifactId>swagger-spring-boot-autoconfigure</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
